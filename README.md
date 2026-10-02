@@ -48,11 +48,11 @@ My open-source home for this work is **[DevSecOps for All](https://github.com/1e
   <img src="https://img.shields.io/badge/CrowdStrike-E01F3D?style=for-the-badge&amp;logo=crowdstrike&amp;logoColor=white" alt="CrowdStrike">
   <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&amp;logo=microsoftsentinel&amp;logoColor=white" alt="Microsoft Sentinel">
   <img src="https://img.shields.io/badge/Aqua%20Security-00A4C7?style=for-the-badge&amp;logo=aqua&amp;logoColor=white" alt="Aqua Security">
-  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&amp;logo=snyk&amp;logoColor=white" alt="Snyk">
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&amp;logo=kalilinux&amp;logoColor=white" alt="Kali Linux">
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&amp;logo=snyk&amp;logoColor=white" alt="Snyk">
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&amp;logo=kalilinux&amp;logoColor=white" alt="Kali Linux">
   <img src="https://img.shields.io/badge/Semgrep-FF3D3D?style=for-the-badge&amp;logo=semgrep&amp;logoColor=white" alt="Semgrep">
   <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&amp;logoColor=white" alt="Trivy">
   <img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&amp;logo=owasp&amp;logoColor=white" alt="OWASP ZAP">
