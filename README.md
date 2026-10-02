@@ -1,48 +1,54 @@
 <div align="center">
-  <img src="assets/security-banner.svg" alt="Daniel / 1ega — Security, DevSecOps and infrastructure" width="100%">
+  <img src="assets/security-banner.svg" alt="Daniel · 1ega — Security and DevSecOps" width="100%">
 
-  # Hi, I'm Daniel 👋
+  # Hi 👋, I'm Daniel
 
-  **SRE · DevOps · Security**
+  ### Security · DevSecOps · SRE
 
-  I build and collect practical ways to make software delivery safer.
+  I turn security checks into practical steps for the people who build and run software.
 
-  [Explore DevSecOps for All](https://github.com/1ega/devsecopsforall) · [Security rules](https://github.com/1ega/devsecopsforall/tree/main/rules) · [Get in touch](https://github.com/1ega)
+  [DevSecOps for All](https://github.com/1ega/devsecopsforall) · [Security rules](https://github.com/1ega/devsecopsforall/tree/main/rules) · [Guides](https://github.com/1ega/devsecopsforall/tree/main/guides)
 </div>
 
----
+<br>
 
-```text
-1ega@github:~$ focus --areas
-→ Application security     Semgrep rules, secure code review
-→ Supply chain security    Dependencies, artifacts, CI/CD
-→ Cloud & infrastructure   Kubernetes, IaC, runtime security
-→ Security practice        Reproducible checks and clear guidance
-```
+<img align="right" width="45%" src="assets/security-illustration.png" alt="Security engineer reviewing a secure delivery pipeline">
 
-## What I'm working on
+### 👨‍💻 What I work on
 
-**[DevSecOps for All](https://github.com/1ega/devsecopsforall)** is a collection of hands-on security resources for people who build, ship, and run software.
+- 🔐 **Application security:** secure code review and Semgrep rules.
+- ⚙️ **DevSecOps:** repeatable checks in CI/CD and the software supply chain.
+- ☁️ **Infrastructure:** Kubernetes, IaC, and runtime security.
+- 🧭 **Practical guidance:** findings that explain the next safe step.
 
-| Explore | What's inside |
-| :--- | :--- |
-| [Security rules](https://github.com/1ega/devsecopsforall/tree/main/rules) | Semgrep rules for Python with positive and negative examples |
-| [Mobile rules](https://github.com/1ega/devsecopsforall/tree/main/semgrep-rules/mobile_custom) | Rules for Android, iOS, React Native, and Flutter |
-| [Security skills](https://github.com/1ega/devsecopsforall/tree/main/skills) | Reusable agent instructions across AppSec, supply chain, Kubernetes, AI security, detection, and compliance |
-| [Guides](https://github.com/1ega/devsecopsforall/tree/main/guides) | Security review and pentest planning checklists |
+My open-source home for this work is **[DevSecOps for All](https://github.com/1ega/devsecopsforall)**.
 
-## How I approach security
+<br clear="all">
 
-```text
-discover → reproduce → prioritize → fix → verify → document
-```
+### 🧰 Explore the work
 
-I like checks that are understandable, repeatable, and useful to the engineers who act on their results. Security work should make the next safe step clear.
+- **[Semgrep rules](https://github.com/1ega/devsecopsforall/tree/main/rules)** — Python security checks with examples and tests.
+- **[Mobile security rules](https://github.com/1ega/devsecopsforall/tree/main/semgrep-rules/mobile_custom)** — Android, iOS, React Native, and Flutter.
+- **[Security skills](https://github.com/1ega/devsecopsforall/tree/main/skills)** — reusable instructions for AppSec, supply chain, Kubernetes, AI security, detection, and compliance.
+- **[Field guides](https://github.com/1ega/devsecopsforall/tree/main/guides)** — security review and pentest planning checklists.
 
-## Connect
+### 🛠️ Languages and tools
 
-Open an [issue or discussion in DevSecOps for All](https://github.com/1ega/devsecopsforall) if you'd like to improve a rule, share a practical example, or contribute a tool. For repository vulnerabilities, use its [security policy](https://github.com/1ega/devsecopsforall/blob/main/SECURITY.md).
+**Cloud, DevOps and platform**
 
-<div align="center">
-  <sub>Build securely. Verify continuously. Share what works.</sub>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,githubactions,linux,bash,python,git,prometheus,grafana,nginx,cloudflare&amp;perline=8" alt="AWS, Azure, Google Cloud, Docker, Kubernetes, Terraform, Ansible, GitHub Actions, Linux, Bash, Python, Git, Prometheus, Grafana, Nginx, and Cloudflare">
+</p>
+
+**Security tooling**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&amp;logo=burpsuite&amp;logoColor=white" alt="Burp Suite">
+  <img src="https://img.shields.io/badge/Semgrep-FF3D3D?style=for-the-badge&amp;logo=semgrep&amp;logoColor=white" alt="Semgrep">
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&amp;logoColor=white" alt="Trivy">
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&amp;logo=owasp&amp;logoColor=white" alt="OWASP ZAP">
+</p>
+
+### 🤝 Connect
+
+Have an idea for a rule, a guide, or a useful tool? [Open an issue](https://github.com/1ega/devsecopsforall/issues). For vulnerabilities in the project, follow its [security policy](https://github.com/1ega/devsecopsforall/blob/main/SECURITY.md).

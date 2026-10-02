@@ -1,7 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
   <title id="title">Daniel · 1ega — Security and DevSecOps</title>
   <desc id="desc">Dark editorial banner with oversized 1EGA lettering and Daniel's Security and DevSecOps focus.</desc>
-  <defs><linearGradient id="line" x1="0" x2="1"><stop stop-color="#c3a979"/><stop offset="1" stop-color="#5dd8cf"/></linearGradient></defs>
+  <defs>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop stop-color="#c3a979"/>
+      <stop offset="1" stop-color="#5dd8cf"/>
+    </linearGradient>
+  </defs>
   <rect width="1200" height="300" fill="#0b0c10"/>
   <path d="M0 252h1200" stroke="#272c34" stroke-width="2"/>
   <text x="-40" y="278" fill="#24252a" font-family="Georgia, serif" font-size="315" font-weight="700" letter-spacing="-18">1EGA</text>
