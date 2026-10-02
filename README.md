@@ -44,9 +44,9 @@ My open-source home for this work is **[DevSecOps for All](https://github.com/1e
 
 <p align="center">
   <a href="https://portswigger.net/burp" title="Burp Suite"><img src="assets/security-icons/burpsuite.svg" width="58" height="58" alt="Burp Suite icon"></a>&nbsp;&nbsp;
-  <a href="https://www.wiz.io/" title="Wiz"><img src="assets/security-icons/wiz.png" width="58" height="58" alt="Wiz icon"></a>&nbsp;&nbsp;
+  <a href="https://www.wiz.io/" title="Wiz"><img src="assets/security-icons/wiz.svg" width="58" height="58" alt="Wiz icon"></a>&nbsp;&nbsp;
   <a href="https://www.crowdstrike.com/" title="CrowdStrike"><img src="assets/security-icons/crowdstrike.svg" width="58" height="58" alt="CrowdStrike icon"></a>&nbsp;&nbsp;
-  <a href="https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-sentinel" title="Microsoft Sentinel"><img src="assets/security-icons/microsoft-sentinel.webp" width="58" height="58" alt="Microsoft Sentinel icon"></a>&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-sentinel" title="Microsoft Sentinel"><img src="assets/security-icons/microsoft-sentinel.svg" width="58" height="58" alt="Microsoft Sentinel icon"></a>&nbsp;&nbsp;
   <a href="https://www.aquasec.com/" title="Aqua Security"><img src="assets/security-icons/aqua.svg" width="58" height="58" alt="Aqua Security icon"></a>
 </p>
 
