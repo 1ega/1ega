@@ -43,19 +43,19 @@ My open-source home for this work is **[DevSecOps for All](https://github.com/1e
 **Security tooling**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&amp;logo=burpsuite&amp;logoColor=white" alt="Burp Suite">
-  <img src="https://img.shields.io/badge/Wiz-7B61FF?style=for-the-badge&amp;logo=wiz&amp;logoColor=white" alt="Wiz">
-  <img src="https://img.shields.io/badge/CrowdStrike-E01F3D?style=for-the-badge&amp;logo=crowdstrike&amp;logoColor=white" alt="CrowdStrike">
-  <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&amp;logo=microsoftsentinel&amp;logoColor=white" alt="Microsoft Sentinel">
-  <img src="https://img.shields.io/badge/Aqua%20Security-00A4C7?style=for-the-badge&amp;logo=aqua&amp;logoColor=white" alt="Aqua Security">
+  <a href="https://portswigger.net/burp" title="Burp Suite"><img src="assets/security-icons/burpsuite.svg" width="58" height="58" alt="Burp Suite icon"></a>&nbsp;&nbsp;
+  <a href="https://www.wiz.io/" title="Wiz"><img src="assets/security-icons/wiz.png" width="58" height="58" alt="Wiz icon"></a>&nbsp;&nbsp;
+  <a href="https://www.crowdstrike.com/" title="CrowdStrike"><img src="assets/security-icons/crowdstrike.svg" width="58" height="58" alt="CrowdStrike icon"></a>&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-sentinel" title="Microsoft Sentinel"><img src="assets/security-icons/microsoft-sentinel.webp" width="58" height="58" alt="Microsoft Sentinel icon"></a>&nbsp;&nbsp;
+  <a href="https://www.aquasec.com/" title="Aqua Security"><img src="assets/security-icons/aqua.svg" width="58" height="58" alt="Aqua Security icon"></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&amp;logo=snyk&amp;logoColor=white" alt="Snyk">
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&amp;logo=kalilinux&amp;logoColor=white" alt="Kali Linux">
-  <img src="https://img.shields.io/badge/Semgrep-FF3D3D?style=for-the-badge&amp;logo=semgrep&amp;logoColor=white" alt="Semgrep">
-  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&amp;logoColor=white" alt="Trivy">
-  <img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&amp;logo=owasp&amp;logoColor=white" alt="OWASP ZAP">
+  <a href="https://snyk.io/" title="Snyk"><img src="assets/security-icons/snyk.svg" width="58" height="58" alt="Snyk icon"></a>&nbsp;&nbsp;
+  <a href="https://www.kali.org/" title="Kali Linux"><img src="assets/security-icons/kali-linux.svg" width="58" height="58" alt="Kali Linux icon"></a>&nbsp;&nbsp;
+  <a href="https://semgrep.dev/" title="Semgrep"><img src="assets/security-icons/semgrep.svg" width="58" height="58" alt="Semgrep icon"></a>&nbsp;&nbsp;
+  <a href="https://trivy.dev/" title="Trivy"><img src="assets/security-icons/trivy.svg" width="58" height="58" alt="Trivy icon"></a>&nbsp;&nbsp;
+  <a href="https://www.zaproxy.org/" title="ZAP"><img src="assets/security-icons/zap.svg" width="58" height="58" alt="ZAP icon"></a>
 </p>
 
 ### 🤝 Connect
