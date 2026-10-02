@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="assets/security-banner.svg" alt="Daniel · 1ega — Security and DevSecOps" width="100%">
+  <img src="assets/security-banner.svg" alt="Daniel · 1ega — Red Team and DevSecOps" width="100%">
 
   # Hi 👋, I'm Daniel
 
-  ### Security · DevSecOps · SRE
+  ### Red Team · DevSecOps · Security
 
   I turn security checks into practical steps for the people who build and run software.
 
@@ -12,11 +12,11 @@
 
 <br>
 
-<img align="right" width="45%" src="assets/security-illustration.png" alt="Security engineer reviewing a secure delivery pipeline">
+<img align="right" width="45%" src="assets/security-illustration.png" alt="Red team and DevSecOps engineer finding, fixing, and verifying a security issue">
 
 ### 👨‍💻 What I work on
 
-- 🔐 **Application security:** secure code review and Semgrep rules.
+- 🎯 **Red team and AppSec:** authorized security testing, secure code review, and Semgrep rules.
 - ⚙️ **DevSecOps:** repeatable checks in CI/CD and the software supply chain.
 - ☁️ **Infrastructure:** Kubernetes, IaC, and runtime security.
 - 🧭 **Practical guidance:** findings that explain the next safe step.
@@ -34,7 +34,7 @@ My open-source home for this work is **[DevSecOps for All](https://github.com/1e
 
 ### 🛠️ Languages and tools
 
-**Cloud, DevOps and platform**
+**Cloud, DevOps, platform and scripting — including Python and Bash**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,githubactions,linux,bash,python,git,prometheus,grafana,nginx,cloudflare&amp;perline=8" alt="AWS, Azure, Google Cloud, Docker, Kubernetes, Terraform, Ansible, GitHub Actions, Linux, Bash, Python, Git, Prometheus, Grafana, Nginx, and Cloudflare">
@@ -44,6 +44,15 @@ My open-source home for this work is **[DevSecOps for All](https://github.com/1e
 
 <p align="center">
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&amp;logo=burpsuite&amp;logoColor=white" alt="Burp Suite">
+  <img src="https://img.shields.io/badge/Wiz-7B61FF?style=for-the-badge&amp;logo=wiz&amp;logoColor=white" alt="Wiz">
+  <img src="https://img.shields.io/badge/CrowdStrike-E01F3D?style=for-the-badge&amp;logo=crowdstrike&amp;logoColor=white" alt="CrowdStrike">
+  <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&amp;logo=microsoftsentinel&amp;logoColor=white" alt="Microsoft Sentinel">
+  <img src="https://img.shields.io/badge/Aqua%20Security-00A4C7?style=for-the-badge&amp;logo=aqua&amp;logoColor=white" alt="Aqua Security">
+  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&amp;logo=snyk&amp;logoColor=white" alt="Snyk">
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&amp;logo=kalilinux&amp;logoColor=white" alt="Kali Linux">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Semgrep-FF3D3D?style=for-the-badge&amp;logo=semgrep&amp;logoColor=white" alt="Semgrep">
   <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&amp;logoColor=white" alt="Trivy">
   <img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&amp;logo=owasp&amp;logoColor=white" alt="OWASP ZAP">
