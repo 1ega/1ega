@@ -28,7 +28,7 @@ My open-source home for this work is **[DevSecOps for All](https://github.com/1e
 ### 🧰 Explore the work
 
 - **[Semgrep rules](https://github.com/1ega/devsecopsforall/tree/main/rules)** — Python security checks with examples and tests.
-- **[Mobile security rules]((https://github.com/1ega/devsecops-for-all-dso/tree/main/rules/semgrep/mobile))** — Android, iOS, React Native, and Flutter.
+- **[Mobile security rules](https://github.com/1ega/devsecops-for-all-dso/tree/main/rules/semgrep/mobile)** — Android, iOS, React Native, and Flutter.
 - **[Security skills](https://github.com/1ega/devsecopsforall/tree/main/skills)** — reusable instructions for AppSec, supply chain, Kubernetes, AI security, detection, and compliance.
 - **[Field guides](https://github.com/1ega/devsecopsforall/tree/main/guides)** — security review and pentest planning checklists.
 
